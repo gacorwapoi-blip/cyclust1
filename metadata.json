@@ -1,0 +1,6 @@
+{
+  "name": "XAUUSD QUANT-LITE AI TRADING ANALYST",
+  "description": "AI trading decision-support terminal for XAUUSD & EURUSD featuring multi-timeframe analysis (1M-1H), institutional order flow, AI decision journal, trading calendar with daily PnL, winrate & percentage return analytics, liquidity heatmap, and order book L2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
